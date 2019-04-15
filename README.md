@@ -1,6 +1,6 @@
 # DHIS2 Data Pusher
 
-Push data from Akvo Flow to DHIS2, the prove of concept.
+Push data from Akvo Flow to DHIS2, the proof of concept.
 
 [![asciicast](https://asciinema.org/a/220495.svg)](https://asciinema.org/a/220495)
 
